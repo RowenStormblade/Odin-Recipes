@@ -1,0 +1,29 @@
+<DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <title>Korean Chicken Thighs</title>
+        </head>
+        <body>
+            <h1>Korean Chicken Thighs</h1>
+            <h3>This delicious chicken is sure to be a dinner hit! This recipe is for four servings.</h3>
+            <img src="c:\Users\Ethan\Downloads\Korean Chicken Thighs.jpg" width="600" height="900">
+            <h4>Ingredients</h4>
+            <ul>
+                <li>1.5 pounds Chicken Thighs</li>
+                <li>1 tablespoon Cooking Oil</li>
+                <li>Sesame Seeds</li>
+                <li>Scallions</li>
+            </ul>
+            <h4>Marinade Ingredients</h4>
+            <ul>
+                <li>2 tablespoons Low Sodium Soy Sauce</li>
+                <li>1 tablespoon Rice Vinegar</li>
+                <li>2 tablespoons Gochujang Paste</li>
+                <li>2 tablespoons Light Brown Sugar</li>
+                <li>1 teaspoon Ginger Powder</li>
+                <li>1 teaspoon Black Pepper</li>
+                <li>1 tablespoon Minced Garlic</li>
+            </ul>
+            <a href="../index.html">Home</a>
+        </body>
