@@ -1,0 +1,14 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+    color: #5D3A1A;
+}
+
+.text{
+    color: black;
+    font-weight: 500;
+}
+.meal-type{
+    color: black;
+    font-weight: 400;
+}
